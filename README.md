@@ -3,7 +3,7 @@
 ## Nanoelectronics : 
 Topics : 
 
-Midsem : MOS Capacitor
+Midsem : PN diode, Ohmic vs shottkey junction, MOS operating regiona, MOS Capacitor, MOS as a switch, CMOS scaling.
 
 Endsem : 
 
