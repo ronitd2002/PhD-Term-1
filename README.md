@@ -19,4 +19,4 @@ Endsem :
 Term Paper :
 
 ## PhD Research : 
-Papers:
+Papers: [1](https://www.nature.com/articles/s43588-025-00782-0) or link->[here](https://arxiv.org/pdf/2412.09285) Title : Free-Energy Machine for Combinatorial Optimization
