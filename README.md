@@ -1,22 +1,22 @@
 # PhD Journey : Term 1 - SUTD
 
 ## Nanoelectronics : 
-Topics : 
-
+Topics :--
 Midsem : PN diode, Barrier voltage, Carrier transport equation, Ohmic vs shottkey junction, MOS operating regiona, MOS Capacitor, MOS energy band diagram, MOSFET CV characteristics, MOS as a switch, DC load line analysis, $R_{\text{MOS}}$ value, Velocity saturation and $\mu' = \mu/[1 + (E/E_c)]$, Hot injection effect, Subthreshold current, slope and $V_{\text{thermal}}$, Channel length modulation and linear $V_{\text{DS (CLM)}} = \frac{\beta}{2}C_{\text{ox}} \left(V_G - V_T\right)^2 (1+\lambda V_{DS})$, CMOS scaling, DIBL, GIDL, Punch Through Effect, CMOS circuit, CMOS Transfer characteristics graph, CMOS logic, $V_M$ analysis, Noise Margin, Power dissipation factors, SOI architecture and BOX layer, GAA architecture, FINFet architecture, Scaling issues with finfet, HighK dielectric tehcnology, Wrap around gate and interfacial layer advantages and disadvantages, Parasitic capacitance, Interconnect scaling effects : Skin depth, RC delay, Electromigration, Stress Migrationn, Chip fabrication process and Cleanroom standards, Scaling laws: Moore's law, Dennard's scaling, Wafer vs pellicle, Chip manufacturing state-of-the-art, Cleaning of wafers, Doping processes : Ion implantation : process, apparatus, accelaration, isotropy, Diffusion : process, apparatus, apparatus, isotropy. Deposition techniques : PVD (Sputtering vs eBeam deposition : process, apparatus, experiment conditions, control), CVD & ALD (process, apparatus, experiment conditions, control, cost, time), Photolithography : process, apparatus, experiment conditions, control, 193 nm ArF technology, types of photolithography, diffraction and rayleigh criterion : resolution specifications, differences between LELE, LFLE, SADP, Etching and etchants, dry etching vs wet etching, e-beam lithography.
 
-Endsem : 
+Endsem : E-beam lithography : Proximity effect, Nanoimprinting, EUV photolithography: (wavelength sacling, system, light source generation, light collection and focussing, EUV  mask, Photoresist, challenges, expectations), Memory and logic, Memry technologies, Memory architectures, DRAM (1 T+1 C): write, hold, read, SRAM (6-T cell) : Write, read, differences with DRAM, FLASH memory : non volatile, write, read, architecture difference vs MOSFET, challenges - retention, P/E cycles, cell-to-cell interference and unintended capacitance, Resistive RAM (RRAM) : read and write, retention, endurance, Magnetic RAM (MRAM) : working principle, read, write, spin-torque transfer, Phase Change RAM (PCRAM) : temperature mediated read/write, FeRAM (1T-1C storage cell design), Nanoscale Characterization - Scanning Probe Microscopy, Gate delectric characteristics, Failure characteristics, reliability, Ultra high vacuum condition, Scanning Tunnelling Microscopy, Operating modes, Spectroscopy, Atomic Force Microscopy, 
 
 Term paper : 
 
+Project :
+
 ## Machine Learning : 
-Topics: 
+Topics:--
+Midsem : Probability theory, Maximum likelihood Estimation and continuous MLE, Linear Regression, Multivariate regression, Ridge regression and regularization, Classification, Gradient descent, Decision region, Perceptron agortithm, Training loss, Hypothesis function, Convergence, Decision boundary, Sigmoid neuron, Log likelihood, Multiclass classification, KNN, Distance measure, Histogram method, Kernel density estimator, Unsupervised learning, Voronoi diagram, Cosine similarity and other similarity metrics, Loss functions, Convergence, K medoids, Clustering, MinMax inequality, Lagrange Optimization and KKT conditions, Kernel methods, Feature map, Kernel trick, Dot/ Inner product, SVM : Macimum margin, Support vectors, Kernel trick , SVM with offset, SVM with errors, Stochastic processes - 1D random walk, Discrete Time SP, Continuous time SP, Brownian motion, Gaussian process - continuous and marginal distribution, GP regression, GPR prediction, Bayesian optimization, Acquisition function, Genetic algorithm.  
 
-Midsem : Regression, Classification, Clustering
+Endsem : Expectation Maximization, Gaussian mixture model, Lagrange multiplier, gamma meaning, comparison with K Means, Hidden markov model, Markov chain and learning, Neural networks & deep learning, activation function, neurons and backpropagation calculus, Autoencoders, Deep feedforward network, Xavier initialization,CNN (eg LeNet), Feature representation, Padding, Maxpool, RNN,
 
-Endsem : 
-
-Term Paper :
+Term Paper : [1](https://www.mdpi.com/1424-8220/24/8/2401) Title : Efficient Image Retrieval Using Hierarchical K-Means Clustering
 
 ## PhD Research : 
-Papers: [1](https://www.nature.com/articles/s43588-025-00782-0) or link->[here](https://arxiv.org/pdf/2412.09285) Title : Free-Energy Machine for Combinatorial Optimization
+Papers: [2](https://www.nature.com/articles/s43588-025-00782-0) or link->[here](https://arxiv.org/pdf/2412.09285) Title : Free-Energy Machine for Combinatorial Optimization
