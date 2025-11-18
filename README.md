@@ -9,6 +9,7 @@ Endsem : E-beam lithography : Proximity effect, Nanoimprinting, EUV photolithogr
 Term paper : 
 
 Project 1 : Python Simulation of NMOS Characteristics
+
 Project 2 : Cleanroom experiment
 
 ## Machine Learning : 
