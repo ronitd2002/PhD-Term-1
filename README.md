@@ -6,7 +6,7 @@ Midsem : PN diode, Barrier voltage, Carrier transport equation, Ohmic vs shottke
 
 Endsem : E-beam lithography : Proximity effect, Nanoimprinting, EUV photolithography: (wavelength sacling, system, light source generation, light collection and focussing, EUV  mask, Photoresist, challenges, expectations), Memory and logic, Memry technologies, Memory architectures, DRAM (1 T+1 C): write, hold, read, SRAM (6-T cell) : Write, read, differences with DRAM, FLASH memory : non volatile, write, read, architecture difference vs MOSFET, challenges - retention, P/E cycles, cell-to-cell interference and unintended capacitance, Resistive RAM (RRAM) : read and write, retention, endurance, Magnetic RAM (MRAM) : working principle, read, write, spin-torque transfer, Phase Change RAM (PCRAM) : temperature mediated read/write, FeRAM (1T-1C storage cell design), Nanoscale Characterization - Scanning Probe Microscopy, Gate delectric characteristics, Failure characteristics, reliability, Ultra high vacuum condition, Scanning Tunnelling Microscopy, Operating modes, Spectroscopy, Atomic Force Microscopy, 
 
-Term paper : [1](https://link.springer.com/article/10.1007/s42341-020-00258-0) Title : Comparative Study of Single and Double Gate All Around Cylindrical FET Structures for High‑K Dielectric Materials
+Term paper : [Comparative Study of Single and Double Gate All Around Cylindrical FET Structures for High‑K Dielectric Materials](https://link.springer.com/article/10.1007/s42341-020-00258-0)
 
 Project 1 : [Python Simulation of NMOS Characteristics](https://github.com/ronitd2002/PhD-Term-1/tree/main/Nano/ENDTERM/project-1)
 
@@ -18,7 +18,7 @@ Midsem : Probability theory, Maximum likelihood Estimation and continuous MLE, L
 
 Endsem : Expectation Maximization, Gaussian mixture model, Lagrange multiplier, gamma meaning, comparison with K Means, Hidden markov model, Markov chain and learning, Neural networks & deep learning, activation function, neurons and backpropagation calculus, Autoencoders, Deep feedforward network, Xavier initialization,CNN (eg LeNet), Feature representation, Padding, Maxpool, RNN,
 
-Term Paper : [2](https://www.mdpi.com/1424-8220/24/8/2401) Title : Efficient Image Retrieval Using Hierarchical K-Means Clustering
+Term Paper : [Efficient Image Retrieval Using Hierarchical K-Means Clustering](https://www.mdpi.com/1424-8220/24/8/2401)
 
 ## PhD Research : 
-Papers: [3](https://www.nature.com/articles/s43588-025-00782-0) or link->[here](https://arxiv.org/pdf/2412.09285) Title : Free-Energy Machine for Combinatorial Optimization
+Papers: [Free-Energy Machine for Combinatorial Optimization](https://www.nature.com/articles/s43588-025-00782-0)
