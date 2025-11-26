@@ -21,4 +21,4 @@ Endsem : Expectation Maximization, Gaussian mixture model, Lagrange multiplier, 
 Term Paper : [Efficient Image Retrieval Using Hierarchical K-Means Clustering](https://www.mdpi.com/1424-8220/24/8/2401)
 
 ## PhD Research : 
-Papers: [Free-Energy Machine for Combinatorial Optimization](https://www.nature.com/articles/s43588-025-00782-0)
+[Free-Energy Machine for Combinatorial Optimization](https://www.nature.com/articles/s43588-025-00782-0)
