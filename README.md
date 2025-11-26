@@ -12,6 +12,8 @@ Project 1 : [Python Simulation of NMOS Characteristics](https://github.com/ronit
 
 Project 2 : Cleanroom experiment
 
+---
+
 ## Machine Learning : 
 Topics:--
 Midsem : Probability theory, Maximum likelihood Estimation and continuous MLE, Linear Regression, Multivariate regression, Ridge regression and regularization, Classification, Gradient descent, Decision region, Perceptron agortithm, Training loss, Hypothesis function, Convergence, Decision boundary, Sigmoid neuron, Log likelihood, Multiclass classification, KNN, Distance measure, Histogram method, Kernel density estimator, Unsupervised learning, Voronoi diagram, Cosine similarity and other similarity metrics, Loss functions, Convergence, K medoids, Clustering, MinMax inequality, Lagrange Optimization and KKT conditions, Kernel methods, Feature map, Kernel trick, Dot/ Inner product, SVM : Macimum margin, Support vectors, Kernel trick , SVM with offset, SVM with errors, Stochastic processes - 1D random walk, Discrete Time SP, Continuous time SP, Brownian motion, Gaussian process - continuous and marginal distribution, GP regression, GPR prediction, Bayesian optimization, Acquisition function, Genetic algorithm.  
@@ -19,6 +21,8 @@ Midsem : Probability theory, Maximum likelihood Estimation and continuous MLE, L
 Endsem : Expectation Maximization, Gaussian mixture model, Lagrange multiplier, gamma meaning, comparison with K Means, Hidden markov model, Markov chain and learning, Neural networks & deep learning, activation function, neurons and backpropagation calculus, Autoencoders, Deep feedforward network, Xavier initialization,CNN (eg LeNet), Feature representation, Padding, Maxpool, RNN,
 
 Term Paper : [Efficient Image Retrieval Using Hierarchical K-Means Clustering](https://www.mdpi.com/1424-8220/24/8/2401)
+
+---
 
 ## PhD Research : 
 [Free-Energy Machine for Combinatorial Optimization](https://www.nature.com/articles/s43588-025-00782-0)
