@@ -8,9 +8,9 @@ Endsem : E-beam lithography : Proximity effect, Nanoimprinting, EUV photolithogr
 
 Term paper : [Comparative Study of Single and Double Gate All Around Cylindrical FET Structures for High‑K Dielectric Materials](https://link.springer.com/article/10.1007/s42341-020-00258-0)
 
-Project 1 : [Python Simulation of NMOS Characteristics](https://github.com/ronitd2002/PhD-Term-1/tree/main/Nano/ENDTERM/project-1)
+Project 1 : [Python Simulation of NMOS Characteristics](https://github.com/ronitd2002/PhD-Term-1/tree/main/Nano/ENDTERM/project-1) [report](https://github.com/ronitd2002/PhD-Term-1/tree/main/Nano/ENDTERM/seminar)
 
-Project 2 : Cleanroom experiment
+Project 2 : Cleanroom experiment [report]()
 
 ---
 
@@ -20,7 +20,7 @@ Midsem : Probability theory, Maximum likelihood Estimation and continuous MLE, L
 
 Endsem : Expectation Maximization, Gaussian mixture model, Lagrange multiplier, gamma meaning, comparison with K Means, Hidden markov model, Markov chain and learning, Neural networks & deep learning, activation function, neurons and backpropagation calculus, Autoencoders, Deep feedforward network, Xavier initialization,CNN (eg LeNet), Feature representation, Padding, Maxpool, RNN,
 
-Term Paper : [Efficient Image Retrieval Using Hierarchical K-Means Clustering](https://www.mdpi.com/1424-8220/24/8/2401)
+Term Paper : [Efficient Image Retrieval Using Hierarchical K-Means Clustering](https://www.mdpi.com/1424-8220/24/8/2401) [report](https://github.com/ronitd2002/PhD-Term-1/tree/main/ML/project)
 
 ---
 
