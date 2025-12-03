@@ -1,1 +1,0 @@
-Midterm Test score - 69/100
