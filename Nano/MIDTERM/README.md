@@ -1,2 +1,1 @@
-## Midterm Test score - 68/80
-
+## Midterm Test score - 70/80
