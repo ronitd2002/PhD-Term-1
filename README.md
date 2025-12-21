@@ -21,8 +21,3 @@ Midsem : Probability theory, Maximum likelihood Estimation and continuous MLE, L
 Endsem : Expectation Maximization, Gaussian mixture model, Lagrange multiplier, gamma meaning, comparison with K Means, Hidden markov model, Markov chain and learning, Neural networks & deep learning, activation function, neurons and backpropagation calculus, Autoencoders, Deep feedforward network, Xavier initialization,CNN (eg LeNet), Feature representation, Padding, Maxpool, RNN,
 
 Term Paper : [Efficient Image Retrieval Using Hierarchical K-Means Clustering](https://www.mdpi.com/1424-8220/24/8/2401) ([report](https://github.com/ronitd2002/PhD-Term-1/tree/main/ML/project))
-
----
-
-## PhD Research : 
-[Free-Energy Machine for Combinatorial Optimization](https://www.nature.com/articles/s43588-025-00782-0)
